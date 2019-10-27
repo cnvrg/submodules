@@ -1,0 +1,3 @@
+[submodule "the_submodules"]
+	path = the_submodules
+	url = https://github.com/cnvrg/the_submodules.git
